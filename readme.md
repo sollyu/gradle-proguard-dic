@@ -11,7 +11,6 @@
 ```
 
 ## 文件
-<img align="right" width="300" src="image/20190418142522.png" alt="copy URL to clipboard" />
 
 |文件|说明|
 |---|---|
