@@ -23,7 +23,7 @@
 |proguard-dic-6.txt|奥里亚文母表|
 |proguard-dic-7.txt|孟加拉文母表|
 |proguard-dic-8.txt|长者语录母表|
-
+|proguard-dic-9.txt|[网友作者搬运](https://github.com/hqzxzwb/ProguardDictionaryGenerator)|
 ## 效果
 
 ### jeb
