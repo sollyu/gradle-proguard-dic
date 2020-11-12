@@ -15,15 +15,15 @@
 |文件|说明|
 |---|---|
 |proguard-log.pro|删除Log记录|
-|proguard-dic-1.txt|网有文件1|
-|proguard-dic-2.txt|网有文件2|
-|proguard-dic-3.txt|藏语字母表|
-|proguard-dic-4.txt|阿拉伯字母表|
-|proguard-dic-5.txt|天城文字母表|
-|proguard-dic-6.txt|奥里亚文母表|
-|proguard-dic-7.txt|孟加拉文母表|
-|proguard-dic-8.txt|长者语录母表|
-|proguard-dic-9.txt|[网友作者搬运](https://github.com/hqzxzwb/ProguardDictionaryGenerator)|
+|[proguard-dic-1.txt](#proguard-dic-1txt)|网有文件1|
+|[proguard-dic-2.txt](#proguard-dic-2txt)|网有文件2|
+|[proguard-dic-3.txt](#proguard-dic-3txt)|藏语字母表|
+|[proguard-dic-4.txt](#proguard-dic-4txt)|阿拉伯字母表|
+|[proguard-dic-5.txt](#proguard-dic-5txt)|天城文字母表|
+|[proguard-dic-6.txt](#proguard-dic-6txt)|奥里亚文母表|
+|[proguard-dic-7.txt](#proguard-dic-7txt)|孟加拉文母表|
+|[proguard-dic-8.txt](#proguard-dic-8txt)|长者语录母表|
+|[proguard-dic-9.txt](#proguard-dic-9txt)|[网友作者搬运](https://github.com/hqzxzwb/ProguardDictionaryGenerator)|
 
 ## 预览
 
