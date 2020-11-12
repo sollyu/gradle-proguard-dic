@@ -24,18 +24,49 @@
 |proguard-dic-7.txt|孟加拉文母表|
 |proguard-dic-8.txt|长者语录母表|
 |proguard-dic-9.txt|[网友作者搬运](https://github.com/hqzxzwb/ProguardDictionaryGenerator)|
-## 效果
 
-### jeb
-![image](image/20190418142522.png)
+## 预览
 
-### jdax
-![image](image/20190418142627.png)
+### proguard-dic-1.txt
+
+![image-20201112103307751](readme.assets/image-20201112103307751.png)
+
+### proguard-dic-2.txt
+
+![image-20201112103504396](readme.assets/image-20201112103504396.png)
+
+### proguard-dic-3.txt
+
+![image-20201112101705969](readme.assets/image-20201112101705969.png)
+
+### proguard-dic-4.txt
+
+![image-20201112101941585](readme.assets/image-20201112101941585.png)
+
+### proguard-dic-5.txt
+
+![image-20201112102209578](readme.assets/image-20201112102209578.png)
+
+### proguard-dic-6.txt
+
+![image-20201112102422912](readme.assets/image-20201112102422912.png)
+
+### proguard-dic-7.txt
+
+![image-20201112102652361](readme.assets/image-20201112102652361.png)
+
+### proguard-dic-8.txt
+
+![image-20201112102857086](readme.assets/image-20201112102857086.png)
+
+### proguard-dic-9.txt
+
+![image-20201112103051269](readme.assets/image-20201112103051269.png)
 
 ## Licenses
 
 ```
-Copyright 2019-2019 sollyu.com
+Copyright 2019-2020 sollyu.com
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
